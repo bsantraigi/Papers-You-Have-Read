@@ -1,0 +1,12 @@
+,Subject,Assignment,Status,Time,Priority,Start date,Due on
+,,,,,,,
+,,,,,,,
+,,"Zero-Shot Adaptive Transfer for Conversational Language Understanding - Lee, Rahul Jha ",,,,,
+,Dialogue System,"Dialogue Generation: From Imitation Learning to Inverse Reinforcement Learning - Ziming Li, Julia Kiseleva, Maarten de Rijke ",,,Important,,
+,,Learning to Align Question and Answer Utterances in Customer Service Conversation with Recurrent Pointer Networks,,,,,
+,Dialogue System,"Goal-oriented Dialogue Policy Learning from Failures - Keting Lu, Shiqi Zhang, Xiaoping Chen ",,,,,
+,,"Learning Personalized End-to-End Goal-Oriented Dialog - Liangchen Luo, Wenhao Huang, Qi Zeng, Zaiqing Nie, Xu Sun ",,,Important,,
+,,Switch-based Active Deep Dyna-Q: Efficient Adaptive Planning for Task-Completion Dialogue Policy Learning,,,High,,
+,,Exploiting Sentence Embedding for Medical Question Answering,,,Important,,
+,,A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks - Seb.Ruder,Done,,Important,,
+,,Latent Multi-task Architecture Learning - Seb.Ruder,,,,,

@@ -1,0 +1,11 @@
+,Subject,Assignment,Status,Time,Priority,Start date,Due on
+,,,,,,,
+,,,,,,,
+,,Named Entity Recognition with Bidirectional LSTM-CNNs,,,,,
+,,Neural Architectures for Named Entity Recognition,,,,,
+,OpenIE / SRL,Supervised Open Information Extraction,,,Important,,
+,OpenIE / SRL,"Syntax for Semantic Role Labeling, To Be, Or Not To Be",,,High,,
+,OpenIE / SRL,"A Full End-to-End Semantic Role Labeler, Syntax-agnostic Over Syntax-aware?",,,High,,
+,,A Fast and Accurate Dependency Parser using Neural Networks,,,,,
+,,Towards Semi-Supervised Learning for Deep Semantic Role Labeling - ACL 18,,,High,,
+,,A Span Selection Model for Semantic Role Labeling - ACL 18,Done,,High,,
